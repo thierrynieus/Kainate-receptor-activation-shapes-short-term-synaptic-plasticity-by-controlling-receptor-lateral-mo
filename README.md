@@ -1,1 +1,3 @@
-# Kainate-receptor-activation-shapes-short-term-synaptic-plasticity-by-controlling-receptor-lateral-mo
+# Kainate receptor activation shapes short-term synaptic plasticity by controlling receptor lateral mobility at
+glutamatergic synapses
+
